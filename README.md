@@ -4,10 +4,14 @@ bash <(curl -Ls https://raw.githubusercontent.com/HexaSoftwareTech/x-ui/master/i
 ```
 
 
-os : ubuntu 22 , centOS 
+## suggestion system
+
+- CentOS 7+
+- Ubuntu 16+
+- Debian 8+
 
 
-download app for using V2ray & x-ui 
+Download App for using V2ray & x-ui 
 
 # V2ray For Mobile
 armeabiv7a
