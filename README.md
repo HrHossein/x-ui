@@ -38,7 +38,7 @@ https://drive.google.com/file/d/113tp0iMuDyaM5CYz-2ULNzwkIVGFTArh/view?usp=share
 
 
 ##
-# How to Connect Your VPS[X-ui] To Domain
+# How to Connect Your VPS [X-ui] To Domain
 ```
 apt-get update
 ```
