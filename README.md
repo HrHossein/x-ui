@@ -1,3 +1,9 @@
+# enable Root in VPS
+```
+sudo sed -i 's/#PermitRootLogin prohibit-password/PermitRootLogin yes/' /etc/ssh/sshd_config && sudo systemctl restart ssh && sudo passwd
+```
+##
+
 # x-ui
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/HexaSoftwareTech/x-ui/master/install.sh)
@@ -61,5 +67,7 @@ curl https://get.acme.sh | sh
 ```
 ~/.acme.sh/acme.sh --installcert -d YourDOMAIN --key-file /root/private.key --fullchain-file /root/cert.crt
 ```
+
+
 
 ##
