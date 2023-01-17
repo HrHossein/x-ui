@@ -26,6 +26,8 @@ X86/X64
 ```
 https://drive.google.com/file/d/10aiQ26VwbACTukNxAKVTK0gZgvqcE5qd/view?usp=share_link
 ```
+
+# V2ray For Pc
 ```
 https://drive.google.com/file/d/113tp0iMuDyaM5CYz-2ULNzwkIVGFTArh/view?usp=share_link
 ```
