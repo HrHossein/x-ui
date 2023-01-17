@@ -43,15 +43,23 @@ https://drive.google.com/file/d/113tp0iMuDyaM5CYz-2ULNzwkIVGFTArh/view?usp=share
 apt-get update
 ```
 ```
+apt install curl socat -y
+```
+```
+curl https://get.acme.sh | sh
+```
+```
+~/.acme.sh/acme.sh --set-default-ca --server letsencrypt
+```
+```
+~/.acme.sh/acme.sh --register-account -m  youremail@gmail.com
+```
+```
+~/.acme.sh/acme.sh --issue -d YourDOMAIN --standalone --force
 
 ```
 ```
-
-```
-```
-
-```
+~/.acme.sh/acme.sh --installcert -d YourDOMAIN --key-file /root/private.key --fullchain-file /root/cert.crt
 ```
 
-```
 ##
