@@ -11,7 +11,6 @@ bash <(curl -Ls https://raw.githubusercontent.com/HexaSoftwareTech/x-ui/master/i
 - Debian 8+
 ##
 
-Download App for using V2ray & x-ui 
 
 # V2ray For Mobile
 armeabiv7a
