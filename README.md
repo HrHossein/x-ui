@@ -9,7 +9,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/HexaSoftwareTech/x-ui/master/i
 - CentOS 7+
 - Ubuntu 16+
 - Debian 8+
-
+##
 
 Download App for using V2ray & x-ui 
 
