@@ -4,6 +4,15 @@ sudo sed -i 's/#PermitRootLogin prohibit-password/PermitRootLogin yes/' /etc/ssh
 ```
 ##
 
+# change ssh port
+```
+nano /etc/ssh/sshd_config
+```
+```
+systemctl restart sshd
+```
+
+##
 # x-ui
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/NidukaAkalanka/x-ui-english/master/install.sh)
