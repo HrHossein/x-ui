@@ -31,11 +31,24 @@ curl -o MTProtoProxyInstall.sh -L https://git.io/fjo34 && bash MTProtoProxyInsta
 ##
 
 
-# V2ray For Mobile
-V2ray For all Devices
+# V2ray For All Device
 ```
 https://drive.google.com/file/d/13IOSY-NUG7zejJBkMh3-sl_EL4h-igcn/view?usp=drivesdk
 ```
+## suggestion Android Version
+
+## X86 / X64 / armbv7a / armbv8a
+
+- Android 5
+- Android 6
+- Android 7
+- Android 8
+- Android 9
+- Android 10
+- Android 11
+- Android 12
+- Android 13
+
 ##
 
 # V2ray For Pc
