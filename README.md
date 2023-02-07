@@ -32,22 +32,11 @@ curl -o MTProtoProxyInstall.sh -L https://git.io/fjo34 && bash MTProtoProxyInsta
 
 
 # V2ray For Mobile
-armeabiv7a
+V2ray For all Devices
 ```
-https://drive.google.com/file/d/116jCPhMKEx43LZDiCZShYVldpo-Tbp1F/view?usp=share_link
+https://drive.google.com/file/d/13IOSY-NUG7zejJBkMh3-sl_EL4h-igcn/view?usp=drivesdk
 ```
-armeabiv8a
-```
-https://drive.google.com/file/d/11F9TcG9yNW1cSggasCsonFoVQndES_M1/view?usp=share_link
-```
-X86
-```
-https://drive.google.com/file/d/11DZZ6ZLyE5hM-yatnWw0C55HoLLiOscg/view?usp=share_link
-```
-X86/X64
-```
-https://drive.google.com/file/d/11BuHIadwOcQ5OkrzYhQGB_MjrIvY1aOt/view?usp=share_link
-```
+##
 
 # V2ray For Pc
 ```
