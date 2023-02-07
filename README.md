@@ -35,7 +35,6 @@ curl -o MTProtoProxyInstall.sh -L https://git.io/fjo34 && bash MTProtoProxyInsta
 ```
 https://drive.google.com/file/d/13IOSY-NUG7zejJBkMh3-sl_EL4h-igcn/view?usp=drivesdk
 ```
-## suggestion Android Version
 
 ## X86 / X64 / armbv7a / armbv8a
 
