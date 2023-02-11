@@ -37,7 +37,7 @@ curl -o MTProtoProxyInstall.sh -L https://git.io/fjo34 && bash MTProtoProxyInsta
 
 # V2ray For All Device
 ```
-https://drive.google.com/file/d/13IOSY-NUG7zejJBkMh3-sl_EL4h-igcn/view?usp=drivesdk
+https://github.com/HrHossein/x-ui/releases/download/Android/v2rayNG.apk
 ```
 
 ## X86 / X64 / armeabi-v7a / arm64-v8a
