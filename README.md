@@ -12,6 +12,15 @@ nano /etc/ssh/sshd_config
 systemctl restart sshd
 ```
 
+
+## suggestion system
+
+- CentOS 7+
+- Ubuntu 16+
+- Debian 8+
+##
+
+
 ##
 # x-ui
 ```
@@ -25,14 +34,6 @@ bash <(curl -Ls https://raw.githubusercontent.com/HexaSoftwareTech/x-ui/master/i
 ```
 curl -o MTProtoProxyInstall.sh -L https://git.io/fjo34 && bash MTProtoProxyInstall.sh
 ```
-
-## suggestion system
-
-- CentOS 7+
-- Ubuntu 16+
-- Debian 8+
-##
-
 
 # V2ray For All Device
 ```
