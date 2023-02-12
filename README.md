@@ -56,7 +56,7 @@ https://github.com/HrHossein/x-ui/releases/download/Android/v2rayNG.apk
 
 # V2ray For Pc
 ```
-https://drive.google.com/file/d/113tp0iMuDyaM5CYz-2ULNzwkIVGFTArh/view?usp=share_link
+https://github.com/HrHossein/x-ui/releases/download/Windows/v2rayN-windows.rar
 ```
 
 
