@@ -23,9 +23,7 @@ systemctl restart sshd
 
 ##
 # x-ui
-```
-bash <(curl -Ls https://raw.githubusercontent.com/NidukaAkalanka/x-ui-english/master/install.sh)
-```
+
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/HexaSoftwareTech/x-ui/master/install.sh)
 ```
