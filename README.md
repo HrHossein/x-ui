@@ -1,3 +1,13 @@
+
+## suggestion system
+
+- CentOS 7+
+- Ubuntu 16+
+- Debian 8+
+##
+
+
+
 # Enable Root in VPS
 ```
 sudo sed -i 's/#PermitRootLogin prohibit-password/PermitRootLogin yes/' /etc/ssh/sshd_config && sudo systemctl restart ssh && sudo passwd
@@ -19,15 +29,6 @@ nano /etc/ssh/sshd_config
 ```
 systemctl restart sshd
 ```
-
-
-## suggestion system
-
-- CentOS 7+
-- Ubuntu 16+
-- Debian 8+
-##
-
 
 ##
 # x-ui
