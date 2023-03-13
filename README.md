@@ -3,7 +3,7 @@
 sudo sed -i 's/#PermitRootLogin prohibit-password/PermitRootLogin yes/' /etc/ssh/sshd_config && sudo systemctl restart ssh && sudo passwd
 ```
 
-#SpeedTest in Ubuntu Server
+# SpeedTest in Ubuntu Server
 ```
 apt install speedtest-cli
 ```
