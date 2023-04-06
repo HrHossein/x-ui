@@ -77,7 +77,7 @@ https://github.com/HrHossein/x-ui/releases/download/Windows/v2rayN-windows.rar
 ```
 ##
 
-#V2ray For Windows 7 & 8 & 8.1
+# V2ray For Windows 7 & 8 & 8.1
 ```
 https://github.com/HrHossein/x-ui/releases/download/WindowsOld/v2rayN-Core-HR.zip
 ```
