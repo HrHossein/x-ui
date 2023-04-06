@@ -1,3 +1,8 @@
+##
+# Who am i ?
+# HR :)
+
+
 
 ## suggestion system
 
@@ -8,7 +13,7 @@
 
 
 
-# Enable Root in VPS
+# Enable Root in Ubuntu Server 
 ```
 sudo sed -i 's/#PermitRootLogin prohibit-password/PermitRootLogin yes/' /etc/ssh/sshd_config && sudo systemctl restart ssh && sudo passwd
 ```
@@ -28,7 +33,7 @@ speedtest
 ```
 ##
 
-# change ssh port
+# change ssh port in Ubuntu server 
 ```
 nano /etc/ssh/sshd_config
 ```
