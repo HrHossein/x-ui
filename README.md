@@ -71,11 +71,16 @@ https://github.com/HrHossein/x-ui/releases/download/Android/v2rayNG.apk
 
 ##
 
-# V2ray For Pc
+# V2ray For Windows 10 & 11
 ```
 https://github.com/HrHossein/x-ui/releases/download/Windows/v2rayN-windows.rar
 ```
+##
 
+#V2ray For Windows 7 & 8 & 8.1
+```
+https://github.com/HrHossein/x-ui/releases/download/WindowsOld/v2rayN-Core-HR.zip
+```
 
 
 ##
