@@ -80,7 +80,7 @@ https://github.com/HrHossein/x-ui/releases/download/Android/v2rayNG.apk
 
 # V2ray For Windows 10 & 11
 ```
-https://github.com/HrHossein/x-ui/releases/download/Windows/v2rayN-windows.rar
+https://github.com/HrHossein/x-ui/releases/download/Windows/v2rayN.zip
 ```
 ##
 
