@@ -53,6 +53,9 @@ bash <(curl -Ls https://raw.githubusercontent.com/NidukaAkalanka/x-ui-english/ma
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/alireza0/x-ui/master/install.sh)
 ```
+```
+bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
+```
 
 # MTPprotoProxy
 ```
