@@ -67,6 +67,11 @@ curl -o MTProtoProxyInstall.sh -L https://git.io/fjo34 && bash MTProtoProxyInsta
 https://github.com/HrHossein/x-ui/releases/download/Android/v2rayNG.apk
 ```
 
+# NekoBox For Android
+```
+https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
+```
+
 ## X86 / X64 / armeabi-v7a / arm64-v8a
 
 - Android 5
